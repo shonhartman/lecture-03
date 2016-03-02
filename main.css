@@ -1,11 +1,19 @@
 body {
   margin: 100px 0 0;
 }
+
+div {
+  height: 150px;
+  width: 100%;
+  background-color: crimson;
+  position: relative;
+}
+
 main {
   width: 100%;
   height: 50px;
   background-color: burlywood;
-  position: relative;
+  /*position: relative;*/
 }
 article {
   width: 100%;
